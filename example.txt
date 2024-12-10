@@ -1,1 +1,3 @@
 "Hii this the git clone to the project for git forr visual studio - dev"
+"Hi this the git clone to the project for git forr visual studio"
+"makeing some changes into the git visual studio"
